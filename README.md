@@ -5,6 +5,7 @@ This project is an interactive **Sales Dashboard** built in **Power BI** to anal
 It helps track **Total Sales, Profit, Quantity, Customers, and Product Performance** with easy drill-down filters.
 **Dataset**
 The dataset contains sales records with the following fields:
+
 -** **Order Date**  
 - **Customer**  
 - **Region / Country / City**  
